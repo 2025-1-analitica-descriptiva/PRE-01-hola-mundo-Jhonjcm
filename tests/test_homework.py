@@ -11,3 +11,4 @@ def test_01():
 def test_02():
     """Test 02"""
     assert pregunta_02.pregunta_02() == "Hello cruel world!"
+
